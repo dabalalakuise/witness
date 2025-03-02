@@ -1,0 +1,8 @@
+# filepath: /var/www/html/witness/wrangler.toml
+name = "witness"
+type = "javascript"
+
+[build]
+command = "npm run build"
+cwd = "."
+main = "./public/index.html"

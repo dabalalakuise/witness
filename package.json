@@ -4,7 +4,8 @@
   "description": "Azure Voice is your go-to platform for the latest and greatest in music.",
   "main": "index.js",
   "scripts": {
-    "build:css": "postcss src/styles.css -o public/styles.css"
+    "build:css": "postcss src/styles.css -o public/styles.css",
+    "build": "your-build-command"
   },
   "author": "Your Name",
   "license": "MIT",
