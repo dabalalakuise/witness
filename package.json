@@ -1,0 +1,16 @@
+{
+  "name": "azure-voice",
+  "version": "1.0.0",
+  "description": "Azure Voice is your go-to platform for the latest and greatest in music.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "postcss src/styles.css -o public/styles.css"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.19",
+    "postcss": "^8.3.11",
+    "autoprefixer": "^10.3.7"
+  }
+}
